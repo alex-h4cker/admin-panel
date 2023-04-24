@@ -1,0 +1,13 @@
+admin-panel :
+WordPress = /wp-admin
+Joomla = /administrator
+Drupal = /user
+/login
+/login.php
+/login.jsp
+/admin
+/admin.php
+/admin.jsp
+/manager
+-----------------
+dork -> site:target.com inurl:admin
